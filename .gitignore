@@ -1,0 +1,21 @@
+# Local packages, libraries & build files
+node_modules/
+*.o
+*.out
+bin/
+out/
+dist/
+build/
+*-cache/
+
+
+# Log files
+*.log
+
+# Compressed & compacted files
+*.zip
+*.tar
+*.rar
+*.gz
+*.tar.gz
+*.tar

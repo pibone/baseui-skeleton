@@ -1,0 +1,25 @@
+{
+  "name": "baseui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react-dom": "^18.0.5",
+    "@types/styletron-engine-atomic": "^1.1.1",
+    "@types/styletron-react": "^5.0.3",
+    "@types/styletron-standard": "^2.0.2",
+    "parcel": "^2.6.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "baseui": "^11.0.3",
+    "formik": "^2.2.9",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "styletron-engine-atomic": "^1.4.8",
+    "styletron-react": "^6.0.2"
+  },
+  "scripts": {
+    "start": "parcel src/public/index.html --open"
+  }
+}
